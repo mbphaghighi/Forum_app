@@ -24,7 +24,7 @@ composer install
 
 Duplicate `.env.example` and rename it `.env`
 Then update the database properties with your database config
-After that import the test_poll.sql file into your database
+After that import the laravel_forum.sql file into your database
 
 Then run:
 
