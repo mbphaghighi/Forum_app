@@ -1,6 +1,6 @@
 # laravel-forum
 
-Develope a threads forum RESTful API web service with Laravel/Vue.js in which users can post, reply, like-dislike and subscribe threads within specific channels
+Develope a threads forum RESTful API web service with Laravel/Vue.js in which users can post, reply, like-dislike and subscribe threads within specific channels.
 
 ## Getting Started
 
@@ -22,9 +22,9 @@ After cloning,run:
 composer install
 ```
 
-Duplicate `.env.example` and rename it `.env`
-Then update the database properties with your database config
-After that import the laravel_forum.sql file into your database
+Duplicate `.env.example` and rename it `.env`.
+Then update the database properties with your database config in this file.
+After that import the laravel_forum.sql SQL file into your database engin.
 
 Then run:
 
