@@ -32,7 +32,7 @@ Then run:
 php artisan key:generate
 ```
 
-### Using the App
+## Using the Web App
 
 And finally, start the application:
 
