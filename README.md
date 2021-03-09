@@ -1,6 +1,6 @@
 # laravel-forum
 
-Develope a threads forum RESTful API web service with Laravel/Vue.js in which users can post, reply, like-dislike and subscribe threads within specific channels.
+Develop a threads forum RESTful API web service with Laravel/Vue.js in which users can post, reply, like-dislike and subscribe threads within specific channels.
 
 ## Getting Started
 
